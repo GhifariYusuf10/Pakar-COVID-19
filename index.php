@@ -148,6 +148,7 @@ include "config/fungsi_alert.php";
            immediately after the control sidebar -->
       <div class="control-sidebar-bg" style="position: fixed; height: auto;"></div>
     </div><!-- ./wrapper -->
+    <script src="js/get-data-covid.js"></script>
   </body>
 </html>
 <?php            

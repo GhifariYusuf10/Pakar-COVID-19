@@ -4,7 +4,7 @@
           <!-- small box -->
           <div class='small-box bg-blue'>
             <div class='inner'>
-              <h3>10.118</h3>
+              <h3 id="data-terkonfirmasi">0</h3>
               <p><b>Terkonfirmasi</b></p>
             </div>
             <div class='icon'>
@@ -17,7 +17,7 @@
           <!-- small box -->
           <div class="small-box bg-orange">
             <div class="inner">
-              <h3>7.804</h3>
+              <h3 id="data-dalam-perawatan">0</h3>
               <p><b>Dalam Perawatan</b></p>
             </div>
             <div class="icon">
@@ -30,7 +30,7 @@
           <!-- small box -->
           <div class="small-box bg-green">
             <div class="inner">
-              <h3>1.522</h3>
+              <h3 id="data-sembuh">0</h3>
               <p><b>Sembuh</b></p>
             </div>
             <div class="icon">
@@ -43,7 +43,7 @@
             <!-- small box -->
             <div class="small-box bg-red">
               <div class="inner">
-               <h3>792</h3>
+               <h3 id="data-meninggal">792</h3>
                 <p><b>Meninggal</b></p>
               </div>
               <div class="icon">
